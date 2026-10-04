@@ -38,3 +38,5 @@ ok: 12 words, checksum valid
 ```
 
 I use this before ever touching a hardware wallet. The wordlist is bundled so it works airgapped.
+
+<!-- checked: 2026-10-04 -->
